@@ -213,6 +213,10 @@ License Identifiers that are here available: http://spdx.org/licenses/
 - [littlefs-fuse] - A [FUSE] wrapper for littlefs. The project allows you to
   mount littlefs directly on a Linux machine. Can be useful for debugging
   littlefs if you have an SD card handy.
+  
+- [littlefs-python] - A python wrapper for littlefs. The project allows you
+  to create, modify or inspect littlefs filesystems with python. It's also
+  useful if you wan't to dig deeper into the behaviour of littlefs.
 
 - [littlefs-js] - A javascript wrapper for littlefs. I'm not sure why you would
   want this, but it is handy for demos.  You can see it in action
@@ -246,3 +250,4 @@ License Identifiers that are here available: http://spdx.org/licenses/
 [LittleFileSystem]: https://os.mbed.com/docs/mbed-os/v5.12/apis/littlefilesystem.html
 [SPIFFS]: https://github.com/pellepl/spiffs
 [Dhara]: https://github.com/dlbeer/dhara
+[littlefs-python]: https://pypi.org/project/littlefs-python/
